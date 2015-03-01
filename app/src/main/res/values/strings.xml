@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NFC_ex</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="test_nfc">Test NFC</string>
+    <string name="nfc_data">NFC Data</string>
+
+</resources>
